@@ -1,0 +1,5 @@
+Valores utilizado: y = a + b * x + E
+A: 83.000000 <> B: 13.300000
+Valores obtidos: y = a + b * x + E
+A: 83.250739 <> B: 13.299115
+y = 83.250739 + 13.299115 * x
